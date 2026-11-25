@@ -32,3 +32,30 @@ Maruthi B
 
 ## Note
 This report covers only the scenarios tested during this project. It does not confirm that the entire application is defect-free.
+
+## Bug ID: BUG-001
+
+**Bug Title:** Incorrect Product Image Displayed
+
+**Module:** Products Page
+
+**Test User:** problem_user
+
+**Steps to Reproduce:**
+1. Open SauceDemo website.
+2. Login using problem_user.
+3. Enter password secret_sauce.
+4. Navigate to Products page.
+5. Check the Sauce Labs Backpack image.
+
+**Expected Result:**
+Correct product image should be displayed.
+
+**Actual Result:**
+A different product image is displayed.
+
+**Severity:** Medium
+
+**Priority:** Medium
+
+**Status:** Open
