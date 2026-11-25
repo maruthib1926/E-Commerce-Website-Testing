@@ -27,6 +27,10 @@ Manual Testing
 | TC11 | Missing Last Name | Pass |
 | TC12 | Missing Postal Code | Pass |
 
+| TC13 | Product Image Testing - problem_user | Incorrect product image displayed | Fail |
+
+| TC14 | Product Image Testing - standard_user | Correct product image displayed | Pass |
+
 ## Overall Summary
 
 - Total Test Cases: 12
