@@ -20,7 +20,9 @@ SauceDemo
 | TC07 | Empty Login | Required field error should display | Username is required | Pass |
 | TC08 | Product Sorting | Products should sort by price | Sorting performed | Pass |
 | TC09 | Remove from Cart | Product should be removed | Product removed | Pass |
-
+| TC10 | Empty Checkout Details | Validation error should display | First Name is required | Pass |
+| TC11 | Missing Last Name | Validation error should display | Last Name is required | Pass |
+| TC12 | Missing Postal Code | Validation error should display | Postal Code is required | Pass |
 ## Testing Summary
 
 - Total Test Cases: 9
