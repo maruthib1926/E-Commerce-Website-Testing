@@ -23,11 +23,14 @@ Manual Testing
 | TC07 | Empty Login | Pass |
 | TC08 | Product Sorting | Pass |
 | TC09 | Remove from Cart | Pass |
+| TC10 | Empty Checkout Details | Pass |
+| TC11 | Missing Last Name | Pass |
+| TC12 | Missing Postal Code | Pass |
 
 ## Overall Summary
 
-- Total Test Cases: 9
-- Passed: 9
+- Total Test Cases: 12
+- Passed: 12
 - Failed: 0
 - Testing Type: Manual Testing
 
