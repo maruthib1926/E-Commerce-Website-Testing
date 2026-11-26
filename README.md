@@ -2,43 +2,69 @@
 
 ## Project Overview
 
-This project focuses on testing an E-Commerce website to verify its functionality, usability, and reliability.
+This is a real-time E-Commerce Website Testing Project performed using the SauceDemo application.
 
-The project covers manual testing, test case design, test execution, defect reporting, API testing, database testing, and automation testing.
+The project focuses on Manual Testing, Test Case Design, Test Execution, Functional Testing, Validation Testing, and Bug Reporting.
 
-## Project Objectives
+## Application Under Test
 
-- Verify user login functionality.
-- Test product search functionality.
-- Verify add-to-cart functionality.
-- Test checkout and order placement.
-- Identify and report software defects.
-- Validate application functionality.
+SauceDemo
+
+## Testing Objectives
+
+- Verify login functionality
+- Verify product functionality
+- Verify cart functionality
+- Verify checkout functionality
+- Verify form validations
+- Verify product sorting
+- Identify and document application defects
 
 ## Testing Types
 
 - Functional Testing
 - UI Testing
-- Positive Testing
+- Validation Testing
 - Negative Testing
 - Regression Testing
-- API Testing
-- Database Testing
-- Automation Testing
 
-## Tools
+## Tools Used
 
-- Manual Testing
-- Postman
-- SQL
-- Python
-- Selenium
+- Google Chrome
 - GitHub
+- Markdown
+- Manual Testing
 
-## Project Status
+## Test Execution Summary
 
-In Progress
+- Total Test Cases: 14
+- Passed: 13
+- Failed: 1
+- Bugs Identified: 1
 
-## Author
+## Bug Identified
+
+**BUG-001 - Incorrect Product Image Displayed**
+
+A product image mismatch was observed while testing the `problem_user` account.
+
+**Severity:** Medium  
+**Priority:** Medium  
+**Status:** Open
+
+## Project Documents
+
+- Test Plan
+- Test Data
+- Test Cases
+- Test Execution Report
+- Bug Report
+- Bug Life Cycle
+
+## Application URL
+
+https://www.saucedemo.com/
+
+## Tested By
 
 Maruthi B
