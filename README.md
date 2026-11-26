@@ -26,7 +26,6 @@ SauceDemo
 - UI Testing
 - Validation Testing
 - Negative Testing
-- Regression Testing
 
 ## Tools Used
 
